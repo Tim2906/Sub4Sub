@@ -25,7 +25,7 @@
 
     if (window.location.href.indexOf("free-activation-success") != -1){
 
-        var activateButton = doucment.evaluate('/html/body/div[1]/section/div/div[1]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[2]/div[2]/a', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
+        var activateButton = document.evaluate('/html/body/div[1]/section/div/div[1]/div[2]/div/div/div[2]/div[2]/div[1]/div/div[2]/div[2]/a', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
 
         location.href = "https://www.ytpals.com/members-area/";
 
