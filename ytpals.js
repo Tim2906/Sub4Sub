@@ -1,5 +1,4 @@
 // Method 1
-
 (function() {
     'use strict';
 
@@ -37,7 +36,6 @@
     }
 
 })();
-
 
 // Method 2
 (function() {
