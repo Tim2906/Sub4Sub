@@ -1,4 +1,16 @@
 // Method 1
+
+// ==UserScript==
+// @name         Sub4Sub Bot
+// @namespace    http://tampermonkey.net/
+// @version      0.1
+// @description  idk
+// @author       Tim2906
+// @match        https://www.sonuker.com/* https://www.ytpals.com/* https://www.subpals.com/*
+// @icon         data:image/gif;base64
+// @grant        none
+// ==/UserScript==
+
 (function() {
     'use strict';
 
