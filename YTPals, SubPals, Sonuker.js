@@ -41,9 +41,9 @@
 
         location.href = "https://www.ytpals.com/members-area/";
 
-        setTimeout(function(){activateButton.click();}, 4,32e+7)
+        setTimeout(function(){activateButton.click();}, 50000)
 
-        setTimeout(function(){location.href="https://www.ytpals.com/members-area/activate"}, 4.3236e+9);
+        setTimeout(function(){location.href="https://www.ytpals.com/members-area/activate"}, 50000);
 
     }
 
